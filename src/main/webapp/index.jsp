@@ -4,9 +4,9 @@
 
 </head>
 <body>
-  <h1>jenkins-pipeline</h2>
+  <h1 style="border:2px dotted black; padding20px; margin:30px;text-align:center">jenkins-pipeline</h2>
 <!-- border,margin-->
-<h1 style="border:2px dotted black; padding20px; margin:30px;text-align:center">flipkart</h1>
+<h2 style="border:2px dotted black; padding20px; margin:30px;text-align:center">website</h2>
 
 
 
