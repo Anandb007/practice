@@ -4,7 +4,7 @@
 
 </head>
 <body>
-  <h1 style="border:2px dotted black; padding20px; margin:30px;text-align:center">jenkins-pipeline</h2>
+  <h1 style="border:2px dotted black; padding20px; margin:30px;text-align:center">jenkins-pipeline-automation</h1>
 <!-- border,margin-->
 <h2 style="border:2px dotted black; padding20px; margin:30px;text-align:center">website</h2>
 
